@@ -1,0 +1,5 @@
+.bg{width: 1920px; height: 1080px; background-image: url("../img/bg.png");}
+.t{position: absolute; left: 5.5%;top:30%; color: white;}
+p{font-size: 18px; color: white;}
+h2{font-size: 30px;color: white;}
+.s{position: absolute; bottom: 3%; left: 5.5%;}
